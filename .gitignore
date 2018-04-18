@@ -1,3 +1,7 @@
 # MacOS
 *.DS_Store
 
+# Data and logs
+log/
+data/
+
